@@ -25,6 +25,7 @@ export default function Latihansendiri() {
                 </div>
             </div>
 
+        <div className="flex p-3 gap-3">
             <div className="flex justify-item justify-center w-50 h-10 bg-black rounded-full"> 
                 <button className="text-white"> Search Flight</button>
             </div>
@@ -34,6 +35,7 @@ export default function Latihansendiri() {
                     <img src="/heart.svg" />
                 </button>
             </div>
+        </div>
 
             </div>
         </div>

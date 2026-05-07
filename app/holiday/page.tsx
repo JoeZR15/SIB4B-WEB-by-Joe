@@ -24,10 +24,16 @@ export default function Latihansendiri() {
                     <p className="text-black text-xs">SFO</p>
                 </div>
             </div>
+
             <div className="flex justify-item justify-center w-50 h-10 bg-black rounded-full"> 
                 <button className="text-white"> Search Flight</button>
             </div>
                 
+                <div className="flex justify-item justify-center bg-white h-10 w-10 rounded-full border-2 border-black"> 
+                <button className=" flex justify-center item-center"> 
+                    <img src="/heart.svg" />
+                </button>
+            </div>
 
             </div>
         </div>

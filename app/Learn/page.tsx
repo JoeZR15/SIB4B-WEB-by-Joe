@@ -18,7 +18,7 @@ export default function LearnPage() {
                 <p>Coding</p>
             </div>
             <div >
-                <h1 className="text-4xl font-bold">Phyton</h1>
+                <h1 className="text-4xl font-bold">Elyada</h1>
                 <p> 9 Hours Ago</p>
             </div>
         </div>
